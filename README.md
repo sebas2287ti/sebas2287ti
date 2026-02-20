@@ -5,8 +5,8 @@
 -
 ### 👨🏻‍💻 &nbsp;Sobre me 
 
-💡 &nbsp;Me gusta comprender y estudiar nuevas tecnologias emergentes y llevarlas al limite para el desarrollo de soluciones efectivas hacia la resolucion de problematicas.
-🎓 &nbsp;Actualmente estudiando ING. Sistemas en la Universidad Distrital de Colombia
+💡 &nbsp;Me gusta comprender y estudiar nuevas tecnologias emergentes y llevarlas al limite para el desarrollo de soluciones efectivas hacia la resolucion de problematicas..\
+🎓 &nbsp;Actualmente estudiando ING. Sistemas en la Universidad Distrital de Colombia.\
 🌱 &nbsp;Me encuentro aprendiendo sobre la Inteligencia Artifical, Diseño de Sistemas y Arquictetura de IA.\
 ✍️ &nbsp;Apacionado de los videojuegos en mi tiempo libre y desarrollador junior.\
 
