@@ -1,8 +1,6 @@
 
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Holaa, Soy Sebastian</h2>
-
--
 ### 👨🏻‍💻 &nbsp;Sobre me 
 
 💡 &nbsp;Me gusta comprender y estudiar nuevas tecnologias emergentes y llevarlas al limite para el desarrollo de soluciones efectivas hacia la resolucion de problematicas..\
